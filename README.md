@@ -1,8 +1,10 @@
-# Xero Laravel 
+# Xero Laravel - No longer maintained, use https://github.com/MacsiDigital/laravel-xero
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/macsidigital/xero-laravel.svg?style=flat-square)](https://packagist.org/packages/macsidigital/xero-laravel)
 [![Build Status](https://img.shields.io/travis/macsidigital/xero-laravel/master.svg?style=flat-square)](https://travis-ci.org/MacsiDigital/xero-laravel)
 [![Total Downloads](https://img.shields.io/packagist/dt/macsidigital/xero-laravel.svg?style=flat-square)](https://packagist.org/packages/macsidigital/xero-laravel)
+
+No longer maintained, use https://github.com/MacsiDigital/laravel-xero
 
 A little Laravel package to communicate with Xero.
 
